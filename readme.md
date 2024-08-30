@@ -1,7 +1,7 @@
 
 ## ToDo List Application
 
-# [ToDo List Application - Video Demo](https://www.youtube.com/watch?v=yuxoESDTCGs)
+# [ToDo List Application - (https://www.youtube.com/watch?v=yuxoESDTCGs) ](https://www.youtube.com/watch?v=yuxoESDTCGs)
 
 ### Descripción
 
